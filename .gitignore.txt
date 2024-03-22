@@ -1,4 +1,2 @@
 # Ignore all .doc files
 *.doc
-# Ignore new.py
-new.py
